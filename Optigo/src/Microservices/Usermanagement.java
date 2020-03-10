@@ -47,6 +47,7 @@ public void ManageUser() throws InterruptedException, IOException, AWTException
 {
 
 
+	WebDriverWait wait1 = new WebDriverWait(driver, 15);
 
 		WebDriverWait wait = new WebDriverWait(driver, 15);
 
