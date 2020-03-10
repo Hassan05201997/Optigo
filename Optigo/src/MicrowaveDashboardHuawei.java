@@ -56,7 +56,7 @@ public class MicrowaveDashboardHuawei {
 	Login.click();
 	driver.manage().window().maximize();
 	Thread.sleep(1000);		
-	
+	String S;
 	}
 	
 	
